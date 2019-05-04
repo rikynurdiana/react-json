@@ -1,0 +1,22 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "title": "Gallery 1",
+      "description": "Deskripsi 1",
+      "image": "",
+      "createdBy": "Riky Nurdiana",
+      "createdDate": "2019-05-04",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "title": "Gallery 2",
+      "description": "Deskripsi 2",
+      "image": "",
+      "createdBy": "Rafasya Laravel Nurdiana",
+      "createdDate": "2019-05-04",
+      "status": "active"
+    }
+  ]
+}
