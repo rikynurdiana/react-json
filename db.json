@@ -1,22 +1,311 @@
 {
   "gallery": [
     {
-      "id": 1,
-      "title": "Gallery 1",
-      "description": "Deskripsi 1",
-      "image": "",
-      "createdBy": "Riky Nurdiana",
-      "createdDate": "2019-05-04",
+      "id": "efacfc93-5eaf-4192-9d23-0d31e505d5c3",
+      "title": "Meja Kerja Simple",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar pellentesque habitant morbi tristique senectus et netus. A iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Turpis massa sed elementum tempus egestas sed sed risus. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Congue eu consequat ac felis donec et odio pellentesque. Orci eu lobortis elementum nibh tellus molestie nunc non. Viverra suspendisse potenti nullam ac tortor. Eu sem integer vitae justo. Cursus sit amet dictum sit amet justo donec enim. Donec et odio pellentesque diam. Id velit ut tortor pretium viverra. Fermentum iaculis eu non diam phasellus vestibulum lorem. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Pellentesque id nibh tortor id. Et tortor consequat id porta nibh venenatis cras sed felis. Massa eget egestas purus viverra accumsan in nisl. Pharetra magna ac placerat vestibulum lectus.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/MejaKerja%20Simple?alt=media&token=41c2ac6c-df4b-483c-b1c3-1a38c200e2d3",
+      "createdBy": "Riky",
+      "createdDate": "06-05-2019",
       "status": "active"
     },
     {
-      "id": 2,
-      "title": "Gallery 2",
-      "description": "Deskripsi 2",
-      "image": "",
-      "createdBy": "Rafasya Laravel Nurdiana",
-      "createdDate": "2019-05-04",
+      "id": "a075b656-d829-4526-8860-fa0bf020320b",
+      "title": "Mobile Work",
+      "description": "Dis parturient montes nascetur ridiculus mus mauris vitae. Massa ultricies mi quis hendrerit dolor magna eget est. Venenatis tellus in metus vulputate eu scelerisque felis imperdiet. Molestie at elementum eu facilisis sed. Pulvinar mattis nunc sed blandit libero volutpat sed. Vulputate eu scelerisque felis imperdiet proin fermentum leo vel. Dignissim suspendisse in est ante in nibh mauris. Ut porttitor leo a diam. Ac turpis egestas maecenas pharetra convallis. Magna etiam tempor orci eu lobortis elementum nibh. Eget dolor morbi non arcu risus quis varius. Enim nec dui nunc mattis enim. Non blandit massa enim nec. Sit amet facilisis magna etiam tempor orci eu.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/MobileWork?alt=media&token=c2781cee-c9d2-432a-9f96-9a8762b6a046",
+      "createdBy": "Riky",
+      "createdDate": "06-05-2019",
       "status": "active"
+    },
+    {
+      "id": "2f12f603-fb54-4e59-a362-43a0c19324fd",
+      "title": "Peralatan untuk bekerja",
+      "description": "Dis parturient montes nascetur ridiculus mus mauris vitae. Massa ultricies mi quis hendrerit dolor magna eget est. Venenatis tellus in metus vulputate eu scelerisque felis imperdiet. Molestie at elementum eu facilisis sed. Pulvinar mattis nunc sed blandit libero volutpat sed. Vulputate eu scelerisque felis imperdiet proin fermentum leo vel. Dignissim suspendisse in est ante in nibh mauris. Ut porttitor leo a diam. Ac turpis egestas maecenas pharetra convallis. Magna etiam tempor orci eu lobortis elementum nibh. Eget dolor morbi non arcu risus quis varius. Enim nec dui nunc mattis enim. Non blandit massa enim nec. Sit amet facilisis magna etiam tempor orci eu.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/Peralatanuntuk%20bekerja?alt=media&token=815e2ee7-c5ae-4bfe-82cf-032892831d2f",
+      "createdBy": "Riky",
+      "createdDate": "06-05-2019",
+      "status": "active"
+    },
+    {
+      "id": "04093a11-db93-41aa-bdcb-e5f062333a10",
+      "title": "Potret ketika nganggur",
+      "description": "Convallis aenean et tortor at. Urna molestie at elementum eu. Imperdiet massa tincidunt nunc pulvinar sapien et ligula. Vehicula ipsum a arcu cursus vitae congue. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Massa vitae tortor condimentum lacinia. Quisque non tellus orci ac auctor augue mauris. Est velit egestas dui id ornare arcu odio ut sem. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquam id diam maecenas ultricies mi.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/Potretketika%20nganggur?alt=media&token=36b22e45-8d49-46bb-963b-cd99e036a1bd",
+      "createdBy": "Riky",
+      "createdDate": "06-05-2019",
+      "status": "active"
+    },
+    {
+      "id": "5263bca2-ee3a-4f5e-8b09-638f556d375a",
+      "title": "Partner Tandem",
+      "description": "Bibendum ut tristique et egestas quis ipsum suspendisse ultrices gravida. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Tristique nulla aliquet enim tortor at. Gravida dictum fusce ut placerat. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Volutpat odio facilisis mauris sit amet massa vitae tortor. Lacinia at quis risus sed vulputate odio ut enim. Mattis nunc sed blandit libero. Velit scelerisque in dictum non consectetur. Mattis aliquam faucibus purus in massa tempor nec feugiat nisl. At ultrices mi tempus imperdiet. Ullamcorper malesuada proin libero nunc consequat interdum varius sit amet. Donec massa sapien faucibus et molestie ac feugiat.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/PartnerTandem?alt=media&token=3548b9f2-fb3b-436e-9f23-ccbeb03af6f6",
+      "createdBy": "Riky",
+      "createdDate": "06-05-2019",
+      "status": "active"
+    },
+    {
+      "id": "4f632464-7d91-4bfd-990a-b23953120ddb",
+      "title": "Potret teman yang sedang bekerja",
+      "description": "Pharetra sit amet aliquam id. Integer vitae justo eget magna fermentum iaculis eu. Pretium lectus quam id leo in. Magna etiam tempor orci eu lobortis elementum. Tortor at auctor urna nunc id cursus metus. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Ut venenatis tellus in metus vulputate. Eu feugiat pretium nibh ipsum consequat nisl. Amet nisl suscipit adipiscing bibendum est ultricies integer. Blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Mi sit amet mauris commodo quis imperdiet massa tincidunt nunc. Ac felis donec et odio pellentesque diam volutpat commodo. Integer feugiat scelerisque varius morbi. Nunc mattis enim ut tellus elementum sagittis vitae. Posuere lorem ipsum dolor sit. Sit amet consectetur adipiscing elit ut aliquam purus sit. Nunc faucibus a pellentesque sit amet.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/Potretteman%20yang%20sedang%20bekerja?alt=media&token=9b89fee9-e62d-4401-bfc5-0a5e1f8b539b",
+      "createdBy": "Riky",
+      "createdDate": "06-05-2019",
+      "status": "active"
+    },
+    {
+      "id": "49fbbd0c-bb48-49d3-afbc-ddf94415b82a",
+      "title": "Diskusi dengan teman",
+      "description": "Elementum pulvinar etiam non quam lacus. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Malesuada fames ac turpis egestas sed tempus urna et. At lectus urna duis convallis convallis. Cursus in hac habitasse platea dictumst quisque sagittis purus. Condimentum id venenatis a condimentum. Diam donec adipiscing tristique risus nec feugiat in fermentum posuere. Morbi leo urna molestie at elementum. A arcu cursus vitae congue mauris rhoncus aenean. Orci a scelerisque purus semper eget duis. Sollicitudin tempor id eu nisl. Duis at consectetur lorem donec. Enim nunc faucibus a pellentesque sit. At varius vel pharetra vel turpis nunc.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/Diskusidengan%20teman?alt=media&token=b62e0787-229f-4132-b599-035ffa5f29db",
+      "createdBy": "Riky",
+      "createdDate": "06-05-2019",
+      "status": "active"
+    },
+    {
+      "id": "c2670014-1b34-404c-bddf-748843b9c3b5",
+      "title": "Sahabat tapi pacar",
+      "description": "Semper eget duis at tellus at urna condimentum mattis pellentesque. Id leo in vitae turpis massa sed elementum. Sed id semper risus in. Duis convallis convallis tellus id interdum. Dignissim convallis aenean et tortor at risus viverra adipiscing. Tortor at auctor urna nunc id cursus metus. Egestas diam in arcu cursus euismod quis viverra nibh cras. Eget egestas purus viverra accumsan in nisl. Vitae congue eu consequat ac felis. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Mauris sit amet massa vitae tortor. Sed elementum tempus egestas sed sed risus. Vel pretium lectus quam id leo in vitae. Nibh praesent tristique magna sit amet purus gravida quis. Neque convallis a cras semper auctor neque. In tellus integer feugiat scelerisque varius morbi. Interdum varius sit amet mattis vulputate.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/Sahabattapi%20pacar?alt=media&token=8f0c6e72-ebbc-4069-92f0-6d2ca34218fe",
+      "createdBy": "Riky",
+      "createdDate": "06-05-2019",
+      "status": "active"
+    },
+    {
+      "id": "8b2dade4-a6af-4876-bce4-885d979063e5",
+      "title": "Tim kerja",
+      "description": "Facilisis leo vel fringilla est ullamcorper. Tortor vitae purus faucibus ornare suspendisse sed nisi. Lectus sit amet est placerat. Lorem ipsum dolor sit amet consectetur adipiscing elit ut. Quis hendrerit dolor magna eget est. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a. Porttitor eget dolor morbi non arcu risus quis. Ultrices eros in cursus turpis massa tincidunt. Nam aliquam sem et tortor consequat id porta. Justo donec enim diam vulputate ut pharetra sit amet aliquam. Eu volutpat odio facilisis mauris. Interdum velit euismod in pellentesque massa placerat. Nulla aliquet enim tortor at auctor urna nunc id cursus. Est lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. Viverra adipiscing at in tellus integer feugiat. Mollis aliquam ut porttitor leo a diam. Nibh mauris cursus mattis molestie a iaculis at. Nec ultrices dui sapien eget mi proin. Pretium lectus quam id leo in vitae turpis massa.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/Timkerja?alt=media&token=95881b71-63ad-44e1-be5a-b11b2ee7e21f",
+      "createdBy": "Riky",
+      "createdDate": "06-05-2019",
+      "status": "active"
+    },
+    {
+      "id": "2b85cc29-e6cb-443b-a867-5ab87ff6e1b5",
+      "title": "Ruang kerja",
+      "description": "Eu sem integer vitae justo eget. Nunc sed augue lacus viverra vitae congue eu consequat ac. Nec ullamcorper sit amet risus nullam eget felis eget nunc. Nibh sit amet commodo nulla facilisi nullam. Etiam tempor orci eu lobortis. Sodales neque sodales ut etiam. Nunc faucibus a pellentesque sit amet porttitor eget dolor. Duis ut diam quam nulla porttitor. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Etiam erat velit scelerisque in dictum non.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/Ruangkerja?alt=media&token=48fbd383-47d3-4d96-a8d5-0953c1bc0d7e",
+      "createdBy": "Riky",
+      "createdDate": "06-05-2019",
+      "status": "active"
+    },
+    {
+      "id": "865b583a-f3b9-4de1-9ffc-c8b496dae96b",
+      "title": "MacBook Pro 2015",
+      "description": "Massa sed elementum tempus egestas sed sed risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Amet porttitor eget dolor morbi. Egestas congue quisque egestas diam in arcu cursus. Varius morbi enim nunc faucibus a pellentesque sit. Purus in massa tempor nec feugiat nisl pretium fusce. Elementum nibh tellus molestie nunc. Interdum velit laoreet id donec ultrices tincidunt arcu non. Interdum posuere lorem ipsum dolor sit amet consectetur adipiscing elit. At tellus at urna condimentum mattis pellentesque id nibh. Dapibus ultrices in iaculis nunc sed augue.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/MacBookPro%202015?alt=media&token=35fa6b60-824b-4e53-9388-3e91752485c8",
+      "createdBy": "Riky",
+      "createdDate": "06-05-2019",
+      "status": "active"
+    },
+    {
+      "id": "8addc327-f74e-46e9-91a4-e5d329fb0feb",
+      "title": "Developer Machine",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Commodo elit at imperdiet dui accumsan sit amet nulla facilisi. Suscipit adipiscing bibendum est ultricies integer. Arcu cursus euismod quis viverra nibh cras. Dignissim suspendisse in est ante in nibh mauris cursus mattis. Lobortis feugiat vivamus at augue eget arcu dictum varius. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. Nibh praesent tristique magna sit. Mauris commodo quis imperdiet massa tincidunt nunc. Id neque aliquam vestibulum morbi blandit cursus. Sapien faucibus et molestie ac feugiat sed lectus. Vitae aliquet nec ullamcorper sit amet risus. Porttitor rhoncus dolor purus non enim praesent elementum facilisis. Sem nulla pharetra diam sit amet. Odio euismod lacinia at quis risus sed vulputate odio. Nibh praesent tristique magna sit amet purus gravida quis. In aliquam sem fringilla ut morbi tincidunt augue.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/DeveloperMachine?alt=media&token=7fde99bd-4a0a-49ad-a681-9caf59e58164",
+      "createdBy": "Riky",
+      "createdDate": "06-05-2019",
+      "status": "active"
+    },
+    {
+      "id": "69959ba3-6513-40e0-b3a0-438768589ac6",
+      "title": "tes",
+      "description": "tes",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/tes?alt=media&token=5a525e7e-115d-4ad6-a2b0-81759d888cfb",
+      "createdBy": "tes",
+      "createdDate": "14-05-2019",
+      "status": "inactive"
+    }
+  ],
+  "master_data_pesawat": [
+    {
+      "id": "1",
+      "nama_maskapai": "Lion Air",
+      "logo_maskapai": "https://static.tiket.photos/image/upload/v1534836616/string/2018/08/21/77df219f-f1d2-494b-a5e7-a339a30e68dd36101a6e250cd0c3b727098ef19b62c6.png",
+      "nomor_penerbangan": "JT001",
+      "kelas": "ekonomi",
+      "harga": 500000,
+      "hargaDewasa": 500000,
+      "hargaAnak": 250000,
+      "hargaBayi": 50000,
+      "bandara_keberangkatan": "Bandung",
+      "bandara_keberangkatan_nick": "BDO",
+      "bandara_tujuan": "jogja",
+      "bandara_tujuan_nick": "JOG",
+      "kapasitas_orang": 100,
+      "kapasitas_barang": 1000,
+      "tanggal_keberangkatan": "2019-06-01",
+      "tanggal_ketibaan": "2019-06-01",
+      "jam_keberangkatan": "08:00",
+      "jam_ketibaan": "10:00",
+      "transit": "langsung",
+      "durasi_terbang": "2j 0m"
+    },
+    {
+      "id": "2",
+      "nama_maskapai": "Lion Air",
+      "logo_maskapai": "https://static.tiket.photos/image/upload/v1534836616/string/2018/08/21/77df219f-f1d2-494b-a5e7-a339a30e68dd36101a6e250cd0c3b727098ef19b62c6.png",
+      "nomor_penerbangan": "JT002",
+      "kelas": "ekonomi",
+      "harga": 550000,
+      "hargaDewasa": 550000,
+      "hargaAnak": 250000,
+      "hargaBayi": 50000,
+      "bandara_keberangkatan": "Bandung",
+      "bandara_keberangkatan_nick": "BDO",
+      "bandara_tujuan": "jogja",
+      "bandara_tujuan_nick": "JOG",
+      "kapasitas_orang": 100,
+      "kapasitas_barang": 1000,
+      "tanggal_keberangkatan": "2019-06-01",
+      "tanggal_ketibaan": "2019-06-01",
+      "jam_keberangkatan": "10:00",
+      "jam_ketibaan": "12:00",
+      "transit": "langsung",
+      "durasi_terbang": "2j 0m"
+    },
+    {
+      "id": "3",
+      "nama_maskapai": "Lion Air",
+      "logo_maskapai": "https://static.tiket.photos/image/upload/v1534836616/string/2018/08/21/77df219f-f1d2-494b-a5e7-a339a30e68dd36101a6e250cd0c3b727098ef19b62c6.png",
+      "nomor_penerbangan": "JT003",
+      "kelas": "ekonomi",
+      "harga": 600000,
+      "hargaDewasa": 600000,
+      "hargaAnak": 300000,
+      "hargaBayi": 50000,
+      "bandara_keberangkatan": "Bandung",
+      "bandara_keberangkatan_nick": "BDO",
+      "bandara_tujuan": "jogja",
+      "bandara_tujuan_nick": "JOG",
+      "kapasitas_orang": 100,
+      "kapasitas_barang": 1000,
+      "tanggal_keberangkatan": "2019-06-01",
+      "tanggal_ketibaan": "2019-06-01",
+      "jam_keberangkatan": "12:00",
+      "jam_ketibaan": "14:00",
+      "transit": "langsung",
+      "durasi_terbang": "2j 0m"
+    },
+    {
+      "id": "4",
+      "nama_maskapai": "Lion Air",
+      "logo_maskapai": "https://static.tiket.photos/image/upload/v1534836616/string/2018/08/21/77df219f-f1d2-494b-a5e7-a339a30e68dd36101a6e250cd0c3b727098ef19b62c6.png",
+      "nomor_penerbangan": "JT004",
+      "kelas": "ekonomi",
+      "harga": 700000,
+      "hargaDewasa": 700000,
+      "hargaAnak": 300000,
+      "hargaBayi": 50000,
+      "bandara_keberangkatan": "Bandung",
+      "bandara_keberangkatan_nick": "BDO",
+      "bandara_tujuan": "jogja",
+      "bandara_tujuan_nick": "JOG",
+      "kapasitas_orang": 100,
+      "kapasitas_barang": 1000,
+      "tanggal_keberangkatan": "2019-06-01",
+      "tanggal_ketibaan": "2019-06-01",
+      "jam_keberangkatan": "14:00",
+      "jam_ketibaan": "16:00",
+      "transit": "langsung",
+      "durasi_terbang": "2j 0m"
+    },
+    {
+      "id": "5",
+      "nama_maskapai": "Lion Air",
+      "logo_maskapai": "https://static.tiket.photos/image/upload/v1534836616/string/2018/08/21/77df219f-f1d2-494b-a5e7-a339a30e68dd36101a6e250cd0c3b727098ef19b62c6.png",
+      "nomor_penerbangan": "JT005",
+      "kelas": "ekonomi",
+      "harga": 800000,
+      "hargaDewasa": 800000,
+      "hargaAnak": 400000,
+      "hargaBayi": 50000,
+      "bandara_keberangkatan": "Bandung",
+      "bandara_keberangkatan_nick": "BDO",
+      "bandara_tujuan": "jogja",
+      "bandara_tujuan_nick": "JOG",
+      "kapasitas_orang": 100,
+      "kapasitas_barang": 1000,
+      "tanggal_keberangkatan": "2019-06-01",
+      "tanggal_ketibaan": "2019-06-01",
+      "jam_keberangkatan": "16:00",
+      "jam_ketibaan": "18:00",
+      "transit": "langsung",
+      "durasi_terbang": "2j 0m"
+    }
+  ],
+  "master_data_booking": [
+    {
+      "id_booking": "TDM00001",
+      "data_maskapai": {
+        "id": "1",
+        "nama_maskapai": "Lion Air",
+        "logo_maskapai": "https://static.tiket.photos/image/upload/v1534836616/string/2018/08/21/77df219f-f1d2-494b-a5e7-a339a30e68dd36101a6e250cd0c3b727098ef19b62c6.png",
+        "nomor_penerbangan": "JT001",
+        "kelas": "ekonomi",
+        "harga": 500000,
+        "hargaDewasa": 500000,
+        "hargaAnak": 250000,
+        "hargaBayi": 50000,
+        "bandara_keberangkatan": "Bandung",
+        "bandara_keberangkatan_nick": "BDO",
+        "bandara_tujuan": "jogja",
+        "bandara_tujuan_nick": "JOG",
+        "kapasitas_orang": 100,
+        "kapasitas_barang": 1000,
+        "tanggal_keberangkatan": "2019-06-01",
+        "tanggal_ketibaan": "2019-06-01",
+        "jam_keberangkatan": "08:00",
+        "jam_ketibaan": "10:00",
+        "transit": "langsung",
+        "durasi_terbang": "2j 0m"
+      },
+      "data_pemesan": {
+        "title": "nona",
+        "nama": "Diana",
+        "nomor_telepon": "082315099988",
+        "email": "diana@mailinator.com"
+      },
+      "data_penumpang": [
+        {
+          "title": "nona",
+          "nama": "Diana",
+          "nomor_telepon": "082315099988",
+          "email": "diana@mailinator.com",
+          "dewasa": 1
+        },
+        {
+          "title": "tuan",
+          "nama": "Riky",
+          "nomor_telepon": "082315099988",
+          "email": "riky@mailinator.com",
+          "dewasa": 1
+        },
+        {
+          "title": "tuan",
+          "nama": "Rafasya",
+          "nomor_telepon": "082315099988",
+          "email": "rafasya@mailinator.com",
+          "dewasa": 0
+        }
+      ],
+      "detail_pesanan": {
+        "jumlah_penumpang": 3,
+        "dewasa": 2,
+        "anak": 1,
+        "bayi": 0,
+        "jumlah_bayar_dewasa": 1000000,
+        "jumlah_bayar_anak": 500000,
+        "jumlah_bayar_bayi": 0,
+        "total_pembayaran": 1500000
+      },
+      "status_pembayaran": {
+        "status": "lunas",
+        "total_dibayarkan": 1500000,
+        "pembayaran_via": "transfer atm",
+        "kode_booking": "TDM00001"
+      }
     }
   ]
 }
