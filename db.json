@@ -307,5 +307,21 @@
         "kode_booking": "TDM00001"
       }
     }
+  ],
+  "biodata": [
+    {
+      "id": "efacfc93-5eaf-4192-9d23-0d31e505d5c3",
+      "name": "Riky Nurdiana",
+      "age": 31,
+      "gender": "Male",
+      "address": "Bandung"
+    },
+    {
+      "id": "123cfc93-5eaf-4192-1234-0d31e505d5c3",
+      "name": "Rafasya Laravel Nurdiana",
+      "age": 3,
+      "gender": "Male",
+      "address": "Padalarang"
+    },
   ]
 }
