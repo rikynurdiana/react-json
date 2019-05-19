@@ -116,6 +116,15 @@
       "createdBy": "tes",
       "createdDate": "14-05-2019",
       "status": "inactive"
+    },
+    {
+      "id": "bf5fc1a2-0095-4b5d-bf5f-b22b9e3fc53a",
+      "title": "coba upload dari server",
+      "description": "cobain cikan ah",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-app-a5509.appspot.com/o/cobaupload%20dari%20server?alt=media&token=ee8bff77-5825-4b72-97f5-8eb4072ac3f4",
+      "createdBy": "Riky",
+      "createdDate": "15-05-2019",
+      "status": "inactive"
     }
   ],
   "master_data_pesawat": [
