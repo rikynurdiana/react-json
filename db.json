@@ -319,11 +319,12 @@
   ],
   "biodata": [
     {
-      "id": "efacfc93-5eaf-4192-9d23-0d31e505d5c3",
-      "name": "Riky Nurdiana",
+      "name": "Riky Nurdiana1",
       "age": 31,
       "gender": "Male",
-      "address": "Bandung"
+      "address": "Bandung1",
+      "updatedDate": "19-05-2019",
+      "id": "efacfc93-5eaf-4192-9d23-0d31e505d5c3"
     },
     {
       "id": "123cfc93-5eaf-4192-1234-0d31e505d5c3",
@@ -331,6 +332,14 @@
       "age": 3,
       "gender": "Male",
       "address": "Padalarang"
+    },
+    {
+      "name": "batman",
+      "age": "40",
+      "gender": "Male",
+      "address": "gotham",
+      "updatedDate": "19-05-2019",
+      "id": "10e5045f-237d-4697-8db4-a306251addad"
     }
   ]
 }
